@@ -14,3 +14,5 @@ or
 
 
     npm run dev
+
+Варинт на TS: https://github.com/ChandeOk/test-pay-ts
